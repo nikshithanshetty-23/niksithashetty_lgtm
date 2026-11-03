@@ -21,8 +21,16 @@ with hands-on experience taking designs through to physical implementation.
 - Multi-corner static timing analysis and timing closure
 - IR drop analysis and ECO fixes
 
-**Tools**
-- Cadence: Xcelium, Genus, Innovus, Tempus, Voltus
+## 🛠️ Tools
+| Domain | Tools |
+|---|---|
+| FPGA / SoC | Xilinx Vivado, Xilinx Vitis |
+| Simulation & Debug | Cadence Xcelium, SimVision, IMC |
+| Synthesis & Equivalence | Cadence Genus, Conformal LEC |
+| Physical Design | Cadence Innovus, Quantus |
+| Timing & Power Signoff | Cadence Tempus, Voltus |
+| Physical Verification | Cadence Pegasus |
+| Custom / Library | Cadence Virtuoso, Liberate |
 
 **Scripting**
 - Tcl, Makefile, Python
